@@ -1,0 +1,5 @@
+
+===
+Original list: ['apple', 'banana', 'cherry', 'date', 'elderberry']
+Updated list: ['apple', 'cherry', 'date', 'elderberry', 'fig']
+List length: 5

@@ -1,0 +1,5 @@
+Hello World
+===
+Uppercase: HELLO WORLD
+Lowercase: hello world
+Character count: 11
